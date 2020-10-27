@@ -1,0 +1,14 @@
+D:\Skillbox\02 - C#\Lesson 7.8\Notebook\Notebook\bin\Debug\Notebook.exe.config
+D:\Skillbox\02 - C#\Lesson 7.8\Notebook\Notebook\bin\Debug\Notebook.exe
+D:\Skillbox\02 - C#\Lesson 7.8\Notebook\Notebook\bin\Debug\Notebook.pdb
+D:\Skillbox\02 - C#\Lesson 7.8\Notebook\Notebook\obj\Debug\Notebook.csprojAssemblyReference.cache
+D:\Skillbox\02 - C#\Lesson 7.8\Notebook\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+D:\Skillbox\02 - C#\Lesson 7.8\Notebook\Notebook\obj\Debug\Notebook.exe
+D:\Skillbox\02 - C#\Lesson 7.8\Notebook\Notebook\obj\Debug\Notebook.pdb
+D:\Skillbox\02 - C#\Lesson 7.8 (Incapsulation)\Notebook\Notebook\bin\Debug\Notebook.exe.config
+D:\Skillbox\02 - C#\Lesson 7.8 (Incapsulation)\Notebook\Notebook\bin\Debug\Notebook.exe
+D:\Skillbox\02 - C#\Lesson 7.8 (Incapsulation)\Notebook\Notebook\bin\Debug\Notebook.pdb
+D:\Skillbox\02 - C#\Lesson 7.8 (Incapsulation)\Notebook\Notebook\obj\Debug\Notebook.csprojAssemblyReference.cache
+D:\Skillbox\02 - C#\Lesson 7.8 (Incapsulation)\Notebook\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+D:\Skillbox\02 - C#\Lesson 7.8 (Incapsulation)\Notebook\Notebook\obj\Debug\Notebook.exe
+D:\Skillbox\02 - C#\Lesson 7.8 (Incapsulation)\Notebook\Notebook\obj\Debug\Notebook.pdb
